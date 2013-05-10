@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+source "$UTIL_FOLDER/args.fix-whitespace"
+name="$1"
+greeting="$2"        
+echo "$greeting $name!"
+
