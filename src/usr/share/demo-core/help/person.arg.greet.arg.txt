@@ -1,0 +1,3 @@
+Use this command to greet a person. Example:
+{program} person John -greet hello
+
